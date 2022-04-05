@@ -48,4 +48,4 @@
 
 - ⚡ <b>Fun fact:</b> I started with ```Microsoft Windows``` when I was very young 😛
 - 🎁 <b>My AppStore apps:</b>
-  - <a href="https://apps.apple.com/us/app/voucherlist/id1453582942">VoucherList</a> (iOS + ipadOS, macOS & tvOS; <b>uses my Swift packages:</b> <a href="https://github.com/crelies/AdvancedList">AdvancedList</a>, <a href="https://github.com/crelies/RemoteImage">RemoteImage</a> & <a href="https://github.com/crelies/Media">Media</a>)
+  - <a href="https://apps.apple.com/us/app/voucherlist/id1453582942">VoucherList</a> (iOS + iPadOS, macOS & tvOS; <b>uses my Swift packages:</b> <a href="https://github.com/crelies/AdvancedList">AdvancedList</a>, <a href="https://github.com/crelies/RemoteImage">RemoteImage</a> & <a href="https://github.com/crelies/Media">Media</a>)
