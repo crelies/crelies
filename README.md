@@ -5,7 +5,7 @@
 - 🔭 I’m currently <b>working</b> on &#8226;&#8226;&#8226; (<i>can't say right now</i>)
 - 🌱 I’m currently <b>working with</b> ```TheComposableArchitecture```
 - 👯 I’m looking to <b>collaborate</b> on ```open source projects```
-- 📫 How to <b>reach me:</b> <a href="https://christianelies.de" target="_blank">Web</a> | <a href="https://t.me/crelies" target="_blank">Telegram</a> | <a href="mailto:crelies@icloud.com" target="_blank">Mail</a>
+- 📫 How to <b>reach me:</b> <a href="https://christianelies.de" target="_blank">Web</a> | <a href="mailto:crelies@icloud.com" target="_blank">Mail</a>
   <details>
   <summary><b>S/MIME Public Key</b></summary>
   
